@@ -1,8 +1,8 @@
 <?php
 	$servidor = "localhost";
-	$usuario = "vacivi36_sistema";
-	$senha = "@f8WBMe5=]^8";
-	$dbname = "vacivi36_laudo";
+	$usuario = "USUARIO";
+	$senha = "SENHA";
+	$dbname = "DB";
 	
 	//Criar a conexao
 	$conn = mysqli_connect($servidor, $usuario, $senha, $dbname);
