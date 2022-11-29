@@ -2,6 +2,7 @@
 
 Sistema desmenbrado e configurado para funcionar como ferramenta para emissão de laudos da Covid-19 em Inglês e Português.
 
+
 Bibliotecas utilizadas:
 
 - Bootstrap
@@ -13,10 +14,12 @@ Bibliotecas utilizadas:
 - PHP Mailer
 - Google Translate PHP
 
+
 Requerimentos: 
 
 PHP 7.2 ou superior
 MySQL 5.2
+
 
 Comunicação com o DB:
 
