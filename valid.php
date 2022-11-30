@@ -186,7 +186,7 @@ switch (get_post_action('email', 'laudo')) {
                 RT-PCR assay;<br/>
                 - Detected test results do not exclude co-infections with other pathogens.</span><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></p>
                 <p class='form_align2'>
-                <img class='logo2' src='images/assinaturaamanda.png'><br/>
+                //<img class='logo2' src='images/logo.png'><br/>
                 <span style='font-size:8.0pt'>&nbsp;&nbsp;&nbsp;" . $tr->translate("Responsável Técnica") . "</span><br/>
                 <span style='font-size:8.0pt'>Dra. Amanda C. P. Fernandes</span><br/>
                 <span style='font-size:8.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CRM/SP 133.136</span><br/>
@@ -292,7 +292,7 @@ switch (get_post_action('email', 'laudo')) {
                 - Resultados de teste detectado não excluem coinfecções com outros patógenos.</span><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
                 </p>
                 <p class='form_align2'>
-                <img class='logo2' src='images/assinaturaamanda.png'><br/>
+                //<img class='logo2' src='images/logo.png'><br/>
                 <span style='font-size:8.0pt'>&nbsp;&nbsp;&nbsp;Responsável Técnica</span><br/>
                 <span style='font-size:8.0pt'>Dra. Amanda C. P. Fernandes</span><br/>
                 <span style='font-size:8.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CRM/SP 133.136</span><br/>
@@ -369,7 +369,7 @@ switch (get_post_action('email', 'laudo')) {
                 RT-PCR assay;<br/>
                 - Detected test results do not exclude co-infections with other pathogens.</span><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/></p>
                 <p class='form_align2'>
-                <img class='logo2' src='images/assinaturaamanda.png'><br/>
+                //<img class='logo2' src='images/logo.png'><br/>
                 <span style='font-size:8.0pt'>&nbsp;&nbsp;&nbsp;" . $tr->translate("Responsável Técnica") . "</span><br/>
                 <span style='font-size:8.0pt'>Dra. Amanda C. P. Fernandes</span><br/>
                 <span style='font-size:8.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CRM/SP 133.136</span><br/>
@@ -439,7 +439,7 @@ switch (get_post_action('email', 'laudo')) {
                 - Resultados de teste detectado não excluem coinfecções com outros patógenos.</span><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
                 </p>
                 <p class='form_align2'>
-                <img class='logo2' src='images/assinaturaamanda.png'><br/>
+                //<img class='logo2' src='images/logo.png'><br/>
                 <span style='font-size:8.0pt'>&nbsp;&nbsp;&nbsp;Responsável Técnica</span><br/>
                 <span style='font-size:8.0pt'>Dra. Amanda C. P. Fernandes</span><br/>
                 <span style='font-size:8.0pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CRM/SP 133.136</span><br/>
