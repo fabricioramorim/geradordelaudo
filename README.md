@@ -2,8 +2,7 @@
 
 Sistema desmenbrado e configurado para funcionar como ferramenta para emissão de laudos da Covid-19 em Inglês e Português.
 
-<br>
-Bibliotecas utilizadas:
+## Bibliotecas utilizadas:
 
 - Bootstrap
 - MPDF
@@ -14,22 +13,18 @@ Bibliotecas utilizadas:
 - PHP Mailer
 - Google Translate PHP
 
-<br>
-Requerimentos: 
+## Requerimentos: 
 
 PHP 7.2 ou superior
 MySQL 5.2
 
-<br>
-Comunicação com o DB:
+## Comunicação com o DB:
 
 Alterar no arquivo /src/conn.php com as informações do banco.
 
 ![WhatsApp Image 2022-11-29 at 16 40 53](https://user-images.githubusercontent.com/38993485/204631941-a889d3c9-f8fe-4311-a81d-3927ec767f23.jpeg)
 
-<br>
-Descrição dos arquivos e pastas:
-<br><br>
+## Descrição dos arquivos e pastas:
 <strong>css/</strong> - pasta contendo todos os arquivos de estilização finais. <br>
 <strong>images/</strong> - pasta contendo todas as imagens utilizadas no sistema. <br>
 <strong>js/</strong> - pasta contendo arquivos de bibliotecas de estilização e validação de dados. <br>
